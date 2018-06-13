@@ -87,8 +87,8 @@ public class HelloWorld {
 ```
 3. that's all,just enjoy,it's a pretty gift for you to leran netty and httpcodec.
 ### Architchture
+![architechture image](./docs/images/Magic-rest.png)
 use the concept of servlet's request,response and FilterChain
-
 ### To be done
 1. https support
 2. rest style support
